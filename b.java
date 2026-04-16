@@ -1,1 +1,1 @@
-change 2 on default
+class B {}
