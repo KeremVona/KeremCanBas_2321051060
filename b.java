@@ -1,1 +1,1 @@
-change
+class B {}
